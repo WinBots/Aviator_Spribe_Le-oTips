@@ -1,0 +1,11 @@
+@robo *RESULTADO* @robo
+@right *RESULTADO*: @SEQ
+
+@alvo SAIR EM:  *1.50x*
+@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green
+@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green
+@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green
+@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green@check_green
+*Padrão para vela 2x , porém vamos ser cautelosos e buscar 1,50x*
+
+@bolsa_dinheiro
